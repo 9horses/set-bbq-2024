@@ -15,14 +15,14 @@ Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 
 ### Hotel California - Eagles
 - key of Bm
-* Lead vocal: Marcus
-* Backing vocal: Johnny
+* Lead vocal [Lyrics](https://freetar.de/tab/eagles/hotel-california-chords-520827): Marcus
+* Backing vocal [Lyrics](https://freetar.de/tab/eagles/hotel-california-chords-520827): Johnny
 * Cajon: Fabiano
-* Guitar (Chord - Arpegio): Marcus
-* Guitar (Chords): Marcio
-* Guitar (Solo): Marcus
+* Guitar [Chord - Arpegio](https://freetar.de/tab/eagles/hotel-california-tabs-2304267): Marcus
+* Guitar [Chords](https://freetar.de/tab/eagles/hotel-california-chords-520827): Marcio
+* Guitar [Solo](https://freetar.de/tab/eagles/hotel-california-tabs-14288): Marcus
 * Guitar (Fills): Shinichi
-* Guitar (Bass): Shinichi/Antonio
+* Guitar [Bass](https://freetar.de/tab/eagles/hotel-california-chords-520827): Shinichi/Antonio
 
 ### One Horse Town - Blackberry Smoke
 - key of C

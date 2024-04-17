@@ -1,14 +1,91 @@
 # BBQ Set
 
+Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 
-## Suggested by Shinichi
+## Let's try these
+
+### Proud Mary - Credence Clearwater Revival
+- key of C
+* Lead vocal: Marcus
+* Backing vocal (chorus): Johnny
+* Cajon: Fabiano
+* Guitar (Chords): Marcus/Marcio
+* Guitar (Solo): Marcus
+* Guitar (Chords/Bass): Shinichi/Antonio
+
+### Hotel California - Eagles
+- key of Bm
+* Lead vocal: Marcus
+* Backing vocal: Johnny
+* Cajon: Fabiano
+* Guitar (Chord - Arpegio): Marcus
+* Guitar (Chords): Marcio
+* Guitar (Solo): Marcus
+* Guitar (Fills): Shinichi
+* Guitar (Bass): Shinichi/Antonio
+
+### One Horse Town - Blackberry Smoke
+- key of C
+* Lead vocal: Johnny
+* Guitar (Chords): Marcio
+* Harmonica: Shinichi
+* Guitar (Solo): Marcus
+* Guitar (Bass): Shinichi/Antonio
+* Cajon: Fabiano
+* Backing vocal: Everyone
+
 ### Hey Jude - Beatles
-* Lead vocal: 
+- key of F
+* Lead vocal: Johnny
 * Guitar (Chords): Shinichi
 * Cajon: Fabiano
-* Guitar (Riffs/Fills):
+* Guitar (Riffs/Fills): Marcus
+* Guitar (Bass): Marcio/Antonio
+* Backing vocal (outro): Everyone
+
+
+## Some of us probably know enough to perform these
+### Piano Man - Billy Joel
+- key of C
+* Lead vocal: Johnny
+* Guitar (Chords): Marcus
+* Cajon: Fabiano
+* Harmonica: Shinichi
+* Guitar (Riffs/Fills/Piano Solo):
+* Guitar (Bass): Antonio
+* Backing vocal: Everyone
+
+### Rock and Roll all Nite - KISS
+* Lead vocal: Marcus
+* Guitar (Power Chords): Marcus
+* Cajon: Fabiano
+* Backing vocal (chorus):
+* Guitar (Bass):
+
+### Black - Pearl Jam
+- key of A
+* Lead vocal: Shinichi
+* Guitar (Intro Chords): Shinichi
+* Guitar (Chords): Shinichi
+* Cajon: Fabiano
+* Guitar (Fills):
 * Guitar (Bass):
 * Backing vocal (outro):
+
+### Sinônimos
+* Lead vocal: Antonio
+* Guitar: Antonio
+* Cajon: Fabiano
+
+### É o Amor
+* Lead vocal: Antonio
+* Guitar: Antonio
+* Cajon: Fabiano
+
+
+## No lead singer
+### Canção noturna - Skank
+### Que vês? - Tijuana
 
 ### No Woman, No Cry - Bob Marley
 * Lead vocal: 
@@ -18,8 +95,7 @@
 * Guitar (Bass):
 * Backing vocals (chorus): 
 
-
-## Suggested by: Johnny
+## Not sure if we know how to play the chords in these
 ### Sweet Caroline - Neil Diamond
 * Lead vocal: Johnny
 * Guitar (Chords):
@@ -33,15 +109,6 @@
 * Lead vocal: Johnny
 * Guitar (Chords):
 * Cajon: Fabiano
-
-### Piano Man - Billy Joel
-* Lead vocal: Johnny
-* Guitar (Chords):
-* Cajon: Fabiano
-* Harmonica: 
-* Guitar (Riffs/Fills/Piano Solo):
-* Guitar (Bass):
-* Backing vocal: 
 
 ### Vienna - Billy Joel
 * Lead vocal: Johnny
@@ -60,66 +127,7 @@
 * Guitar (Bass):
 * Backing vocal (chorus):
 
-
 ### Tempo Perdido - Legiao Urbana
 ### Quando o sol bater na janela do teu quarto - Legiao Urbana
 ### Ate Quando Esperar - Plebe Rude
-
-
-## Suggested by Antonio
-### Sinônimos
-### É o Amor
-
-
-## Suggested by: Marcus
-### Proud Mary - Credence Clearwater Revival
-* Lead vocal:
-* Guitar (Chords):
-* Cajon: Fabiano
-* Guitar (Fills - solo):
-* Guitar (Bass):
-* Backing vocal (chorus):
-
-### Hotel California - Eagles
-* Lead vocal:
-* Backing vocal:
-* Cajon: Fabiano
-* Guitar (Chords):
-* Guitar (Chord Picking - Riffs):
-* Guitar (Fills - solo1):
-* Guitar (Fills - solo2):
-* Guitar (Bass):
-
-### Rock and Roll all Nite - KISS
-* Lead vocal:
-* Guitar (Power Chords):
-* Cajon: Fabiano
-* Backing vocal (chorus):
-* Guitar (Bass):
-
-
-## Suggested by Fabiano
-### Black - Pearl Jam
-* Lead vocal:
-* Guitar (Intro Chords): Shinichi
-* Guitar (Chords):
-* Cajon: Fabiano
-* Guitar (Fills):
-* Guitar (Bass):
-* Backing vocal (outro):
-
-
-## Suggested by: Marcio
-### Canção noturna - Skank
-### Que vês? - Tijuana
-### One Horse Town - Blackberry Smoke
-* Lead vocal:
-* Guitar (Chords):
-* Guitar (Fills):
-* Guitar (Solo):
-* Guitar (Bass):
-* Backing vocal:
-* Cajon: Fabiano
-
-
 

@@ -5,20 +5,20 @@ Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 ## Let's try these
 
 ### Proud Mary - Credence Clearwater Revival
-- key of C
-* Lead vocal: Marcus
-* Backing vocal (chorus): Johnny
+- key of C [spotify](https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH?si=332279ef93b348eb)
+* Lead vocal [Lyrics](https://freetar.de/tab/creedence-clearwater-revival/proud-mary-chords-1051382): Marcus
+* Backing vocal [Chorus Lyrics](https://freetar.de/tab/creedence-clearwater-revival/proud-mary-chords-1051382) : Johnny
 * Cajon: Fabiano
-* Guitar (Chords): Marcus/Marcio
-* Guitar (Solo): Marcus
-* Guitar (Chords/Bass): Shinichi/Antonio
+* Guitar [Chords](https://freetar.de/tab/creedence-clearwater-revival/proud-mary-chords-64067): Marcus/Marcio
+* Guitar [Fills/Solo](https://freetar.de/tab/creedence-clearwater-revival/proud-mary-tabs-53276): Marcus
+* Guitar [Bass](https://freetar.de/tab/creedence-clearwater-revival/proud-mary-bass-1668720): Shinichi/Antonio
 
 ### Hotel California - Eagles
-- key of Bm
+- key of Bm [spotify](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv?si=c52817db538d49a6)
 * Lead vocal [Lyrics](https://freetar.de/tab/eagles/hotel-california-chords-520827): Marcus
 * Backing vocal [Lyrics](https://freetar.de/tab/eagles/hotel-california-chords-520827): Johnny
 * Cajon: Fabiano
-* Guitar [Chord - Arpegio](https://freetar.de/tab/eagles/hotel-california-tabs-2304267): Marcus
+* Guitar [Chord - Arpeggio](https://freetar.de/tab/eagles/hotel-california-tabs-2304267): Marcus
 * Guitar [Chords](https://freetar.de/tab/eagles/hotel-california-chords-520827): Marcio
 * Guitar [Solo](https://freetar.de/tab/eagles/hotel-california-tabs-14288): Marcus
 * Guitar (Fills): Shinichi

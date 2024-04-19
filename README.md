@@ -19,7 +19,7 @@ Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 * Backing vocal [Lyrics](https://freetar.de/tab/eagles/hotel-california-chords-520827): Johnny
 * Cajon: Fabiano
 * Guitar [Chord - Arpeggio](https://freetar.de/tab/eagles/hotel-california-tabs-2304267): Marcus
-* Guitar [Chords](https://freetar.de/tab/eagles/hotel-california-chords-520827): Marcio
+* Guitar [Chords](https://freetar.de/tab/eagles/hotel-california-chords-688698): Marcio
 * Guitar [Solo](https://freetar.de/tab/eagles/hotel-california-tabs-14288): Marcus
 * Guitar (Fills): Shinichi
 * Guitar [Bass](https://freetar.de/tab/eagles/hotel-california-chords-520827): Shinichi/Antonio

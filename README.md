@@ -46,16 +46,19 @@ Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 
 ## Some of us probably know enough to perform these
 ### Piano Man - Billy Joel
-- key of C
+- key of C [spotify](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ?si=f81f2faffa1242c7)
+* [Lyrics/Chords/Bass](https://freetar.de/tab/billy-joel/piano-man-chords-1720411)
 * Lead vocal: Johnny
-* Guitar (Chords): Marcus
-* Cajon: Fabiano
 * Harmonica: Shinichi
-* Guitar (Riffs/Fills/Piano Solo):
-* Guitar (Bass): Antonio
+* Guitar (Chords): Marcus
+* Guitar (Bass): Marcio/Antonio
+* Cajon: Fabiano
 * Backing vocal: Everyone
+* Guitar (Riffs/Fills/Piano Solo):
 
 ### Rock and Roll all Nite - KISS
+- key of Ab (probably should just play in A) [spotify](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC?si=8fecba29fdc54674)
+* [Lyrics/Chords](https://freetar.de/tab/kiss/rock-and-roll-all-nite-chords-72776)
 * Lead vocal: Marcus
 * Guitar (Power Chords): Marcus
 * Cajon: Fabiano
@@ -63,7 +66,8 @@ Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 * Guitar (Bass):
 
 ### Black - Pearl Jam
-- key of A
+- key of A [spotify](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY?si=46335df42e5d41fa)
+* [Lyrics/Chords](https://freetar.de/tab/pearl-jam/black-chords-1115192)
 * Lead vocal: Shinichi
 * Guitar (Intro Chords): Shinichi
 * Guitar (Chords): Shinichi
@@ -73,6 +77,7 @@ Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 * Backing vocal (outro):
 
 ### Sinônimos
+* [tab](https://freetar.de/tab/4798295)
 * Lead vocal: Antonio
 * Guitar: Antonio
 * Cajon: Fabiano

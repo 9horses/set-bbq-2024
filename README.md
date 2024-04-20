@@ -25,22 +25,22 @@ Johnny, Fabiano, Antonio, Marcus, Marcio, Shinichi
 * Guitar [Bass](https://freetar.de/tab/eagles/hotel-california-chords-520827): Shinichi/Antonio
 
 ### One Horse Town - Blackberry Smoke
-- key of C
-* Lead vocal: Johnny
-* Guitar (Chords): Marcio
-* Harmonica: Shinichi
-* Guitar (Solo): Marcus
-* Guitar (Bass): Shinichi/Antonio
+- key of C [spotify](https://open.spotify.com/track/5Y36csDNfP9gRThyyveiBT?si=4f17c87d47c548f5)
+* Lead vocal [Lyrics](https://freetar.de/tab/blackberry-smoke/one-horse-town-chords-1188033): Johnny
+* Guitar [Chords](https://freetar.de/tab/blackberry-smoke/one-horse-town-chords-1188033): Marcio
+* Harmonica (fake organ): Shinichi
+* Guitar [Solo](https://freetar.de/tab/blackberry-smoke/one-horse-town-tabs-1518628): Marcus
+* Guitar [Bass](https://freetar.de/tab/blackberry-smoke/one-horse-town-bass-3504359): Shinichi/Antonio
 * Cajon: Fabiano
 * Backing vocal: Everyone
 
 ### Hey Jude - Beatles
-- key of F
-* Lead vocal: Johnny
-* Guitar (Chords): Shinichi
+- key of F [spotify](https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl?si=8c6a2dd8a1964f33)
+* Lead vocal [Lyrics](https://freetar.de/tab/the-beatles/hey-jude-chords-17275): Johnny
+* Guitar [Chords](https://freetar.de/tab/the-beatles/hey-jude-chords-17275): Shinichi
+* Guitar [Chords](https://freetar.de/tab/the-beatles/hey-jude-chords-17275): Marcus
 * Cajon: Fabiano
-* Guitar (Riffs/Fills): Marcus
-* Guitar (Bass): Marcio/Antonio
+* Guitar [Bass](https://freetar.de/tab/the-beatles/hey-jude-bass-38854): Marcio/Antonio
 * Backing vocal (outro): Everyone
 
 
